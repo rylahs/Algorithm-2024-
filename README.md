@@ -1,5 +1,5 @@
 # Algorithm-2024-
-BOJ, Programmers Etc..
+BOJ, Programmers Etc..    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mintarisha)](https://solved.ac/mintarisha)    
 [![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=mintarisha&theme=dark)](https://solved.ac/mintarisha)    
 
